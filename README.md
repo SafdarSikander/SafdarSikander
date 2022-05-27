@@ -6,7 +6,7 @@
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love coding and gaming
 
-[![wakatime](https://wakatime.com/badge/user/085eea81-6189-44e8-82e7-2da94b856a1c/project/14100261-f280-4969-97fc-2211d0dfb05b.svg)](https://wakatime.com/badge/user/085eea81-6189-44e8-82e7-2da94b856a1c/project/14100261-f280-4969-97fc-2211d0dfb05b)
+[![wakatime](https://wakatime.com/badge/user/085eea81-6189-44e8-82e7-2da94b856a1c.svg)](https://wakatime.com/@085eea81-6189-44e8-82e7-2da94b856a1c)
 
 ### Languages and Tools:
 
