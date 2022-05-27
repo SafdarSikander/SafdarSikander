@@ -6,6 +6,8 @@
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love coding and gaming
 
+[![wakatime](https://wakatime.com/badge/user/085eea81-6189-44e8-82e7-2da94b856a1c/project/14100261-f280-4969-97fc-2211d0dfb05b.svg)](https://wakatime.com/badge/user/085eea81-6189-44e8-82e7-2da94b856a1c/project/14100261-f280-4969-97fc-2211d0dfb05b)
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
