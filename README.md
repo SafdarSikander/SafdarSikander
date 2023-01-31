@@ -1,5 +1,5 @@
 # Hi there, Safdar Sikander👋 
-[I'm on Turing as well😎]https://matching.turing.com/developer-resume/c55f787521f4a2a670d8ceda8d929223fb8711b88a36ed)
+[I'm on turing.com as well😎](https://matching.turing.com/developer-resume/c55f787521f4a2a670d8ceda8d929223fb8711b88a36ed)
 ## I'm full stack Mobile App Developer!!
 
 - 🌱 I’m currently learning everything 🤣
