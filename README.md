@@ -1,9 +1,9 @@
 # Hi there, Safdar Sikander👋 
-
-## I'm full stack Developer!!
+[Turing Profile]([https://www.google.com](https://matching.turing.com/developer-resume/c55f787521f4a2a670d8ceda8d929223fb8711b88a36ed)
+## I'm full stack Mobile App Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about web3
+- 🥅 2023 Goals: Learn more about web3
 - ⚡ Fun fact: I love coding and gaming
 
 [![wakatime](https://wakatime.com/badge/user/085eea81-6189-44e8-82e7-2da94b856a1c.svg)](https://wakatime.com/@085eea81-6189-44e8-82e7-2da94b856a1c)
